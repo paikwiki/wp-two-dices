@@ -5,8 +5,8 @@
 */
 /*
 Plugin Name: Two dices
-Plugin URI: #
-Description: #
+Plugin URI: https://github.com/paikwiki/wp-two-dices
+Description: Let's roll the dices.
 Author: paikwiki
 Version: 1.0.0
 Author URI: http://paikwiki.com
